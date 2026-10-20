@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Berserking Reminder
+## Notes: Shows the Troll racial Berserking when it's off cooldown in combat, so you remember to use it. /berserk for options.
+## Author: Lex
+## Version: 1.0.0
+## SavedVariables: BerserkingReminderDB
+## IconTexture: Interface\Icons\Racial_Troll_Berserk
+
+BerserkingReminder.lua
